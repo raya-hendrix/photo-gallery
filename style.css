@@ -1,0 +1,43 @@
+  #title {
+  color: #2d2c2e;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+p {
+  font-family: "Sorts Mill Goudy", serif;
+}
+
+body {
+  background-color: #f8f8ff;
+}
+
+@media and (max-width: 900px);
+ {
+  h1 {
+    background-color: #f8f8ff;
+  }
+}
+
+@media and (max-width: 500px);
+ {
+  h1 {
+    background-color: #f8f8ff;
+  }
+}
+
+@media and (max-width: 2 00px);
+
+  h1 {
+    background-color: #f8f8ff;
+  }
+}
